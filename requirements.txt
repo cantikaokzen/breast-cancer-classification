@@ -1,8 +1,9 @@
-Flask
-numpy
-scikit-learn
-python-dotenv
+flask
 flask-cors
 flasgger
+numpy
+pandas
 joblib
-imbalanced-learn
+scikit-learn==1.4.2
+imbalanced-learn==0.12.2
+catboost==1.2.5
